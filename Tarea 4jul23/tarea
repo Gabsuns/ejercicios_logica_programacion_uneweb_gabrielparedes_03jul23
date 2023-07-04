@@ -1,0 +1,21 @@
+1- que es una clave SSH en git y como configurarala en nuestros equipos
+2- que es una libreria o biblioteca en programacion, de ejemplos
+3- que es una variable en pogramacion, de ejemplos
+4- que es la identacion y porque se usa en programacion, de ejemplos
+5-que es el diseño web, de ejemplos
+6- que es el "user interface design" "UI design"? de ejemplos
+7-que es el "user experience design" "UX design"? de ejemplos
+8- que es lan "search engine optimization" de ejemplos
+9-que es el marckup laguage"? de ejemplos
+10- que es la web engineering? de ejemplos
+11- que es la usability en el web development? de ejemplos
+12- que es la web accesibility en el web development? de ejmplos
+13- que es HTML5 para que se usa y de ejemlos de su codificacion
+14-que es CCS3, para que se usa y de ejmplos de su codificacion
+15-que es javascript, para que se usa y de ejemplos de su codificacion
+
+PRACTICA: 
+1- Realice el ejercicio "compare de triplets" del portal hackerrank
+2- Instale en su computador personal los programas Visual Studio Code y Git
+3- Ejecute el comando en su CLI ( command line interface) llamado "git bash" el comando " git clone" de su repositorio llamado "formulario_basico_<nombre>_03jul23" y realice un formulario en lenguaje de etiquetado HTML5 con 7 diferentes tipos de "inputs type", si lo desea puede agregar estilos.
+4-en el apartado practica crear un archivo llamado practica_2.c donde debera hallar la solucion al siguiente enunciado: 2. Hacer una funcion que diga si un caracter esta en una cadena.
